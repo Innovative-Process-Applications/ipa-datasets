@@ -59,10 +59,10 @@ Full generator source is in `generate_dataset.py` — reproducible with seed 42.
 
 ## Cross-links (other places to find this dataset)
 
-- **Kaggle:** [link after publication]
-- **Hugging Face Datasets:** [link after publication]
-- **Zenodo (DOI):** [link after publication]
-- **GitHub:** [link after publication]
+- **Kaggle:** [https://www.kaggle.com/innovativeprocapps]
+- **Hugging Face Datasets:** [https://huggingface.co/datasets/Innovative-Process-Applications/roller-compaction-ribbon-density]
+- **Zenodo (DOI):** [[link after publication](https://zenodo.org/records/19500776)]
+- **GitHub:** [[link after publication](https://github.com/Innovative-Process-Applications/ipa-datasets)]
 - **IPA website:** https://www.innovativeprocess.com
 
 ## About IPA
