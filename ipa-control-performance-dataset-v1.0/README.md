@@ -112,11 +112,11 @@ Key concepts from Section 3.1 modeled here:
 
 ## Cross-links (also published on)
 
-- **Kaggle:** [link after publication]
-- **Hugging Face Datasets:** [link after publication]
-- **Zenodo (DOI):** [link after publication]
-- **GitHub:** [link after publication]
+- **Hugging Face Datasets:** https://huggingface.co/Innovative-Process-Applications
+- **Zenodo (DOI):** https://zenodo.org/records/19636275
+- **GitHub:** https://github.com/Innovative-Process-Applications
 - **IPA website:** https://www.innovativeprocess.com
+- **Kaggle:** https://www.kaggle.com/innovativeprocapps
 
 ## About IPA
 
