@@ -122,7 +122,7 @@ on CV, ±2% on fines, ±25 µm on d50). Full generator source is in
 
 - **Hugging Face Datasets:** https://huggingface.co/Innovative-Process-Applications
 - **Zenodo (DOI):** https://zenodo.org/records/19636275
-- **GitHub:** c
+- **GitHub:** https://github.com/Innovative-Process-Applications
 - **IPA website:** https://www.innovativeprocess.com
 - **Kaggle:** https://www.kaggle.com/innovativeprocapps
 
