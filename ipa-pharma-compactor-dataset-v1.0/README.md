@@ -79,11 +79,11 @@ operating envelope of twin-feed-screw process parameters.
 
 ## Cross-links
 
-- **Kaggle:** [link after publication]
-- **Hugging Face:** [link after publication]
-- **Zenodo:** [link after publication]
-- **GitHub:** [link after publication]
-- **IPA website:** https://www.innovativeprocess.com
+- **Kaggle:** https://www.kaggle.com/innovativeprocapps
+- **Hugging Face:** https://huggingface.co/datasets/Innovative-Process-Applications/ipa-pharma-compactor-platform
+- **Zenodo:** https://zenodo.org/records/19646708
+- **GitHub:** https://huggingface.co/datasets/Innovative-Process-Applications/ipa-pharma-compactor-platform
+- **IPA website:** https://ipaapplications.com/
 
 ## Citation
 
